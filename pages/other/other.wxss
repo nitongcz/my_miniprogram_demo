@@ -1,0 +1,9 @@
+/* pages/other/other.wxss */
+
+.demo_text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: blueviolet;
+  font-size: large;
+}

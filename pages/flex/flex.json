@@ -1,0 +1,7 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText":"Third Page",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh":true,
+  "onReachBottomDistance":100
+}

@@ -1,0 +1,32 @@
+<!--pages/flex/flex.wxml-->
+<!-- <text>pages/flex/flex.wxml</text> -->
+
+<view>
+<button bindtap="goTo4Page">去第4个页面</button>
+</view>
+
+<button loading="{{loading}}" bindtap="tap">操作</button>
+
+<button hover-class="hover">点击button</button>
+<view hover-class="hover">点击view</view>
+
+<view>
+  <button bindtap="firstButton">第一个按钮</button>
+  <button bindtap="secondButton">第二个按钮</button>
+  <button bindtap="thirdButton">第三个按钮</button>
+</view>
+<view>
+  <text>1111111111111</text>
+</view>
+<view>
+  <text>2222222222222</text>
+</view>
+<view>
+  <text>3333333333333</text>
+</view>
+
+<view>
+  <image mode="scaleToFill" src="/images/huang_yao_shi.jpg"></image>
+</view>
+
+<image mode="scaleToFill" src="/images/111.jpg"></image>

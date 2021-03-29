@@ -1,0 +1,8 @@
+<!--pages/forth/forth.wxml-->
+<view>
+<text>第4个页面 Http request demo</text>
+<button bindtap="tapLogin">微信登录</button>
+<text>{{code}}</text>
+</view>
+
+<wx class="request"></wx>

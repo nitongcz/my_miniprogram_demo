@@ -1,0 +1,17 @@
+<!--pages/other/other.wxml-->
+<text>pages/other/other.wxml</text>
+
+<view class="demo_text">
+<text>other page</text>
+<image mode="scaleToFill" src="/images/1.jpg"></image>
+</view>
+
+<view class="httpRequest">
+  <button bindtap="test_http">请求</button>
+  <text>{{str_result}}</text>
+</view>
+
+<view>
+  <button bindtap="third_page">第三个页面</button>
+</view>
+

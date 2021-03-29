@@ -1,0 +1,12 @@
+/* pages/flex/flex.wxss */
+view,text,image{width:100%;box-sizing: border-box}
+
+.container .item{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.hover{
+  background-color: gray;
+}
